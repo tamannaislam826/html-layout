@@ -1,0 +1,47 @@
+header{
+    background-color: orchid;
+    width: 100%;
+    height: 100px;
+}
+.content{
+ overflow: hidden;
+
+}
+.left{
+    height: 600px;
+    background-color: palegoldenrod;
+    width: 20%;
+    float: left;
+
+}
+.center{
+    height: 600px;
+    background-color:gold;
+    width: 60%;
+    float: left;
+}
+.top{
+height: 25%;
+background-color: goldenrod;
+}
+
+.middle{
+height: 50%;
+background-color: hotpink;
+}
+
+.bottom{
+height:25% ;
+background-color: lawngreen;
+}
+.right{
+    height: 600px;
+    background-color:tomato;
+    width: 20%;
+    float: right;
+
+}
+footer{
+    background-color:orangered;
+    height: 100px;
+}
